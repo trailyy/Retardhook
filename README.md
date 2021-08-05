@@ -14,8 +14,8 @@ I don't recommend selling this as your product because the protection is really 
 It was fun working on the project but you gotta move on.
 
 Cheat features:
-      - shit code
-      - basic trainer features
-      - shit wannabe p2c auth
-      - overall the project is fucking garbage
-      - antipaste ;DD
+- shit code
+- basic trainer features
+- shit wannabe p2c auth
+- overall the project is fucking garbage
+- antipaste ;DD
